@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails raye7App: production" uuid="c1c5d221-0c44-4148-9373-312b45a0ef65">
+      <first-sync>true</first-sync>
+      <user-name>michaelfahmy</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddff8dfebdff3dfefdf9ddfebdffadffadff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+    </data-source>
+    <data-source name="Rails raye7App: development" uuid="8ea2f48d-b471-4cf5-9d4a-fa1c1f1e5c3d">
+      <user-name>michaelfahmy</user-name>
+      <schema-pattern>raye7App_development.pg_catalog raye7App_development.public</schema-pattern>
+      <default-schemas>raye7App_development.public</default-schemas>
+    </data-source>
+    <data-source name="Rails raye7App: test" uuid="41add1ae-1315-4b8d-86fd-33f6ef2f922b">
+      <user-name>michaelfahmy</user-name>
+      <schema-pattern>raye7App_test.pg_catalog raye7App_test.public</schema-pattern>
+      <default-schemas>raye7App_test.public</default-schemas>
+    </data-source>
+  </component>
+</project>

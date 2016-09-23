@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  driver_id:
+  source_id:
+  destination_id:
+  departure_time: 2016-09-23 21:32:49
+  seats: 1
+
+two:
+  driver_id:
+  source_id:
+  destination_id:
+  departure_time: 2016-09-23 21:32:49
+  seats: 3

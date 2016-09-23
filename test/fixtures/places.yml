@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString1
+  longitude: 30.1234567
+  latitude: 31.7654321
+
+two:
+  name: MyString2
+  longitude: 29.9876543
+  latitude: 30.3456778
